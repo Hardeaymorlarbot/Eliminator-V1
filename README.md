@@ -56,11 +56,14 @@
  <br> 
 <p align="center">
    
-   * [🧑‍💻 Join Eliminator Telegram🧑‍💻](https://t.me/+w75-AYtul_c1MjI0)
 <a
 href="https://wa.me/2349159896402"><img src="https://img.shields.io/badge/Contact Eliminator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VahNT2u8qIzovKI7053X
-"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+"><img
+hsrc="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+/>
+<a href="https://https://t.me/+w75-AYtul_c1MjI0"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"
+/><br>
 <p align="center"
 
 
