@@ -55,7 +55,10 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349159896402"><img src="https://img.shields.io/badge/Contact Eliminator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   
+   * [🧑‍💻 Join Eliminator Telegram🧑‍💻](https://t.me/+w75-AYtul_c1MjI0)
+<a
+href="https://wa.me/2349159896402"><img src="https://img.shields.io/badge/Contact Eliminator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VahNT2u8qIzovKI7053X
 "><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
 <p align="center"
