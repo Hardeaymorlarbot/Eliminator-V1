@@ -2,13 +2,13 @@
 # Eliminator💀🔫
 # Hardeaymorlar❤️
 # Nobody🇦🇫
-   <a><img src='https://files.catbox.moe/6c223f.jpeg'/></a><a><img src=/></a>
+   <a><img src=''/></a><a><img src=/></a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+Eliminator+V1+MULTI-DEVICE;WHATSAPP+BOT+WAS;DEVELOPED+BY+HARDEAYMORLAR;AND+NOBODY+❤️;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src=/> 
+<img src="https://files.catbox.moe/6c223f.jpeg"/> 
 <p align="center"><img src= 
 <p align="center">
 
