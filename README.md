@@ -1,11 +1,11 @@
 # Eliminator-V1
 # Eliminator💀🔫
 # Hardeaymorlar❤️
-# Nobody🇦🇫
+# Nothing🇦🇫
    <a><img src=''/></a><a><img src=/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ELIMINATOR+V1+MULTI-DEVICE;WHATSAPP+BOT+WAS;DEVELOPED+BY+HARDEAYMORLAR;AND+NOBODY+❤️;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ELIMINATOR+V1+MULTI-DEVICE;WHATSAPP+BOT+WAS;DEVELOPED+BY+HARDEAYMORLAR;AND+NOTHING+❤️;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <img src="https://files.catbox.moe/6c223f.jpeg"/> 
@@ -50,7 +50,7 @@
 1. Deploy.
     
     <h2 align="center">⚠️NOTE  </h2>
-## DEATH_MD-V1 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+## ELIMINATOR-V1 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
@@ -62,8 +62,7 @@ href="https://wa.me/2349159896402"><img src="https://img.shields.io/badge/Contac
 "><img
 hsrc="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 />
-<a href="https://https://t.me/+w75-AYtul_c1MjI0"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"
-/><br>
+
 <p align="center"
 
 
@@ -72,6 +71,9 @@ hsrc="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-ba
 
 * [Follow Eliminator Whatsapp Channel](https://whatsapp.com/channel/0029VahNT2u8qIzovKI7053X)
   
+
+
+* [🧑‍💻 Join Eliminator Telegram Group 🧑‍💻](https://t.me/+-IbRTLRGa-g3NmZk)
 
 
 
@@ -85,7 +87,7 @@ hsrc="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-ba
 
 - *Eliminator V1  is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Death-md at your own risk by keeping this warning in mind.*
+- *Use eliminator v1 at your own risk by keeping this warning in mind.*
   
   #### ```Eliminator WhatsApp link
 *[Click to Dm](https://wa.me/9159896402)
